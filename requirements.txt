@@ -5,3 +5,4 @@ python-docx==0.8.11
 PyMuPDF==1.22.5
 gridfs==3.0.1
 dnspython==2.3.0  # Required for MongoDB connection strings with SRV
+gunicorn==21.2.0
