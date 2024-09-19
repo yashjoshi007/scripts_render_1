@@ -1,0 +1,7 @@
+Flask==2.3.2
+flask-cors==3.0.10
+pymongo==4.3.3
+python-docx==0.8.11
+PyMuPDF==1.22.5
+gridfs==3.0.1
+dnspython==2.3.0  # Required for MongoDB connection strings with SRV
